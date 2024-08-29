@@ -1,6 +1,6 @@
 ## Olimpíadas 2024:
 https://olympics.com/en/
-(Bônus: https://olympics.com/en/paris-2024/spectator/medical-information)
+(Interessante: https://olympics.com/en/paris-2024/spectator/medical-information)
 
 ## Rock in rio:
 https://rockinrio.com/rio/pt-br/line-up/
