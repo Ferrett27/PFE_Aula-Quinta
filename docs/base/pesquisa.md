@@ -1,3 +1,8 @@
+---
+id: pesquisa
+title: Pesquisa
+---
+
 ## Pesquisa pessoal minha
 
 ## Olimpíadas 2024:
